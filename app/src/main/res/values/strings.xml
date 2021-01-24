@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AppHW_4</string>
+    <string name="convert_image">Convert image in PNG and show</string>
+    <string name="show_jpg_image">Show jpg image</string>
 </resources>
